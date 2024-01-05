@@ -1,2 +1,2 @@
 # belajar-webdev-dari-wpu
-belajar webdev ototdidak via youtube
+belajar webdev otodidak via youtube
