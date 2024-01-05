@@ -1,5 +1,5 @@
 Belajar WebDev via Youtube dari channel WPU
-- HTML Dasae
+- HTML Dasar
 - CSS Dasar
 - JavaScript Dasar
 - Flexbox Dasar
