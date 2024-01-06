@@ -4,4 +4,4 @@ Belajar WebDev via Youtube dari channel WPU
 - CSS Fundamental
 - JavaScript Dasar
 - Flexbox Dasar
-- Object
+- Arrow Function
