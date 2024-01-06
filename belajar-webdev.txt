@@ -1,5 +1,7 @@
 Belajar WebDev via Youtube dari channel WPU
 - HTML Dasar
 - CSS Dasar
+- CSS Fundamental
 - JavaScript Dasar
 - Flexbox Dasar
+- Arrow Function
